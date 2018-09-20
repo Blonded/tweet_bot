@@ -1,1 +1,1 @@
-console.log("This is the other bot....");
+console.log("The bot has started");
