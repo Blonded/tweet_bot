@@ -16,4 +16,4 @@ This application is currently under construction :)
 
 
 # Authors:
-Lena Martinson [Blonded](www.github.com/blonded)
+Lena Blonded [Blonded](www.github.com/blonded)
